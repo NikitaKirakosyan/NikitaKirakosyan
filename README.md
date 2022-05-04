@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/NikitaKirakosyan/NikitaKirakosyan/blob/main/assets/U_Logo_White_RGB.png)]
 
 ## Professional Unity C# Developer
 
