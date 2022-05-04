@@ -1,6 +1,6 @@
 ![Header](https://github.com/NikitaKirakosyan/NikitaKirakosyan/blob/main/assets/mylogo.png)
 
-## Professional Unity C# Developer
+## Unity C# Developer
 
 ### Technology Stack
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=FFFFFF)
