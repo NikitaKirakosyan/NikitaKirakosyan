@@ -1,4 +1,4 @@
-![Header](https://github.com/NikitaKirakosyan/NikitaKirakosyan/blob/main/assets/mylogo.png)
+![Header](https://github.com/NikitaKirakosyan/NikitaKirakosyan/blob/main/assets/mylogo.gif)
 
 ## Professional Unity C# Developer
 
