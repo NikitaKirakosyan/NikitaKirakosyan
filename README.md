@@ -26,13 +26,13 @@
 [![Stealth Thief](https://img.shields.io/badge/-Stealth_Thief-090909?style=for-the-badge&logo=appstore&logoColor=313159)](https://apps.apple.com/us/app/stealth-thief/id1525359181)
 [![Business Tour](https://img.shields.io/badge/-Business_Tour-090909?style=for-the-badge&logo=appstore&logoColor=8CF0F0)](https://apps.apple.com/pl/app/business-tour/id1468486788)
 [![Merge Decor](https://img.shields.io/badge/-Merge_Decor-090909?style=for-the-badge&logo=appstore&logoColor=b45078)](https://apps.apple.com/ru/app/merge-decor-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B4%D0%BE%D0%BC%D0%B0/id1570364787)
-[![Love Sparks](https://img.shields.io/badge/-Love_Sparks-090909?style=for-the-badge&logo=appstore&logoColor=b45078)](https://apps.apple.com/us/app/love-sparks-dating-chat-games/id1580105392)
+[![Love Sparks](https://img.shields.io/badge/-Love_Sparks-090909?style=for-the-badge&logo=appstore&logoColor=7828c8)](https://apps.apple.com/us/app/love-sparks-dating-chat-games/id1580105392)
 
 #### Google Play
 [![Army Merger](https://img.shields.io/badge/-Army_Merger-090909?style=for-the-badge&logo=googleplay&logoColor=C036DC)](https://play.google.com/store/apps/details?id=com.gooligames.armymerger&hl=ru&gl=US)
 [![Business Tour](https://img.shields.io/badge/-Business_Tour-090909?style=for-the-badge&logo=googleplay&logoColor=8CF0F0)](https://play.google.com/store/apps/details?id=com.eightfloor.business.tour.friends.board.dice.free&hl=ru&gl=US)
 [![Merge Decor](https://img.shields.io/badge/-Merge_Decor-090909?style=for-the-badge&logo=googleplay&logoColor=b45078)](https://play.google.com/store/apps/details?id=com.applife.mergedecor&hl=ru&gl=US)
-[![Love Sparks](https://img.shields.io/badge/-Love_Sparks-090909?style=for-the-badge&logo=googleplay&logoColor=b45078)](https://play.google.com/store/apps/details?id=com.swagmasha.lovespark&hl=ru&gl=US)
+[![Love Sparks](https://img.shields.io/badge/-Love_Sparks-090909?style=for-the-badge&logo=googleplay&logoColor=7828c8)](https://play.google.com/store/apps/details?id=com.swagmasha.lovespark&hl=ru&gl=US)
 
 #### Steam
 [![Blood And Zombies](https://img.shields.io/badge/-Blood_And_Zombies-090909?style=for-the-badge&logo=steam&logoColor=A02020)](https://store.steampowered.com/app/1739880/Blood_And_Zombies/)
