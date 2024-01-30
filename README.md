@@ -10,9 +10,6 @@
 ![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![iOS](https://img.shields.io/badge/-platform-090909?style=for-the-badge&logo=ios&logoColor=FFFFFF)
 
-### Own Games
-[![Sudoku](https://img.shields.io/badge/-Sudoku-090909?style=for-the-badge&logo=googleplay&logoColor=94BCD3)](https://play.google.com/store/apps/details?id=com.NoomankGames.Sudoku&hl=ru&gl=US)
-
 ### Games | Worked On
 #### Appstore
 [![Army Merger](https://img.shields.io/badge/-Army_Merger-090909?style=for-the-badge&logo=appstore&logoColor=C036DC)](https://apps.apple.com/us/app/army-merger/id1550938481)
@@ -39,12 +36,3 @@
 #### Epic Games
 [![Blood And Zombies](https://img.shields.io/badge/-Blood_And_Zombies-090909?style=for-the-badge&logo=epicgames&logoColor=A02020)](https://store.epicgames.com/ru/p/blood-and-zombies-4273b6)
 [![Nibiru Uncharted Planet](https://img.shields.io/badge/-Nibiru_Uncharted_Planet-090909?style=for-the-badge&logo=epicgames&logoColor=518431)](https://store.epicgames.com/ru/p/nibiru-ce8efd)
-
-### Apps
-#### Appstore
-[![SkyOptix](https://img.shields.io/badge/-SkyOptix-090909?style=for-the-badge&logo=appstore&logoColor=285F82)](https://apps.apple.com/us/app/skyoptix/id1581801238)
-
-### Follow me
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/nikita_kirakosyan)
-[![INSTAGRAM](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/nikita_kirakosyan/)
-[![TELEGRAM](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Noomank)
