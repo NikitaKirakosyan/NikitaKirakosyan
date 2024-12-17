@@ -26,6 +26,7 @@
 [![Army Merger](https://img.shields.io/badge/-Army_Merger-090909?style=for-the-badge&logo=googleplay&logoColor=C036DC)](https://play.google.com/store/apps/details?id=com.gooligames.armymerger&hl=ru&gl=US)
 [![Business Tour](https://img.shields.io/badge/-Business_Tour-090909?style=for-the-badge&logo=googleplay&logoColor=8CF0F0)](https://play.google.com/store/apps/details?id=com.eightfloor.business.tour.friends.board.dice.free&hl=ru&gl=US)
 [![Love Sparks](https://img.shields.io/badge/-Love_Sparks-090909?style=for-the-badge&logo=googleplay&logoColor=7828c8)](https://play.google.com/store/apps/details?id=com.swagmasha.lovespark&hl=ru&gl=US)
+[![Anime Lover](https://img.shields.io/badge/-Anime Lover-090909?style=for-the-badge&logo=googleplay&logoColor=FFBFDA)](https://play.google.com/store/apps/details?id=com.keystorm.animelover&hl=US)
 
 #### Steam
 [![Blood And Zombies](https://img.shields.io/badge/-Blood_And_Zombies-090909?style=for-the-badge&logo=steam&logoColor=A02020)](https://store.steampowered.com/app/1739880/Blood_And_Zombies/)
