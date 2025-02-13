@@ -4,11 +4,11 @@
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=FFFFFF)
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=sharp&logoColor=8609B0)
 ![.NET](https://img.shields.io/badge/-framework-090909?style=for-the-badge&logo=.net&logoColor=512BD4)
+![DOTween](https://img.shields.io/badge/-dotween-090909?style=for-the-badge&logo=file.io&logoColor=0099BC)
+![Zenject](https://img.shields.io/badge/-zenject-090909?style=for-the-badge&logo=substack&logoColor=76B843)
 ![FaceBook API](https://img.shields.io/badge/-Facebook_API-090909?style=for-the-badge&logo=facebook&logoColor=0866FF)
 ![Firebase SDK](https://img.shields.io/badge/-Firebase_SDK-090909?style=for-the-badge&logo=firebase&logoColor=DD2C00)
 ![AppsFlyer SDK](https://img.shields.io/badge/-AppsFlyer_SDK-090909?style=for-the-badge&logo=flat&logoColor=01C2FF)
-![DOTween](https://img.shields.io/badge/-dotween-090909?style=for-the-badge&logo=file.io&logoColor=0099BC)
-![Zenject](https://img.shields.io/badge/-zenject-090909?style=for-the-badge&logo=substack&logoColor=76B843)
 
 ### Platforms
 ![Steam](https://img.shields.io/badge/-PC-090909?style=for-the-badge&logo=steam&logoColor=FFFFFF)
