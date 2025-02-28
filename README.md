@@ -1,6 +1,6 @@
 ## Unity C# Developer
 ### Social | Media
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=accenture&logoColor=0160BF)](www.linkedin.com/in/nikita-kirakosyan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=accenture&logoColor=0160BF)](www.linkedin.com/in/nikita-kirakosyan/)
 
 ### Technology Stack
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=FFFFFF)
