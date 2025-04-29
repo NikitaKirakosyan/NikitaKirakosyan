@@ -1,5 +1,6 @@
 ## Unity C# Developer
 ### Unity Tools
+* [Debug Pro](https://github.com/NikitaKirakosyan/debug-pro)
 * [Handy Editor Extensions](https://github.com/NikitaKirakosyan/handy-editor-extensions)
 * [Asset Preview Extractor](https://github.com/NikitaKirakosyan/asset-preview-extractor)
 
