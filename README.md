@@ -6,6 +6,8 @@
 
 ### Social | Media
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=accenture&logoColor=0160BF)](https://www.linkedin.com/in/nikita-kirakosyan/)
+[![Yanges.Games](https://img.shields.io/badge/-Yanges.Games-090909?style=for-the-badge&logo=homepage&logoColor=6563FF)](https://yandex.ru/games/developer/119077)
+[![Telegram Channel](https://img.shields.io/badge/-Telegram_Channel-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/southbyte_games)
 
 ### Technology Stack
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=FFFFFF)
