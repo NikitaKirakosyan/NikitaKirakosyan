@@ -16,6 +16,7 @@
 ![DOTween](https://img.shields.io/badge/-dotween-090909?style=for-the-badge&logo=file.io&logoColor=0099BC)
 ![Zenject](https://img.shields.io/badge/-zenject-090909?style=for-the-badge&logo=substack&logoColor=76B843)
 ![UniTask](https://img.shields.io/badge/-unitask-090909?style=for-the-badge&logo=dask&logoColor=e74846)
+![Addressables](https://img.shields.io/badge/-Addressables-090909?style=for-the-badge&logo=files&logoColor=4285F4)
 ![Firebase SDK](https://img.shields.io/badge/-Firebase_SDK-090909?style=for-the-badge&logo=firebase&logoColor=DD2C00)
 ![AppsFlyer SDK](https://img.shields.io/badge/-AppsFlyer_SDK-090909?style=for-the-badge&logo=flat&logoColor=01C2FF)
 
