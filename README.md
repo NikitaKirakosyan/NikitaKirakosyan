@@ -56,6 +56,3 @@
 #### Epic Games
 [![Blood And Zombies](https://img.shields.io/badge/-Blood_And_Zombies-090909?style=for-the-badge&logo=epicgames&logoColor=A02020)](https://store.epicgames.com/ru/p/blood-and-zombies-4273b6)
 [![Nibiru Uncharted Planet](https://img.shields.io/badge/-Nibiru_Uncharted_Planet-090909?style=for-the-badge&logo=epicgames&logoColor=518431)](https://store.epicgames.com/ru/p/nibiru-ce8efd)
-
-#### Web
-[![Underworld Tycoon: Idle Clicker](https://img.shields.io/badge/-Underworld_Tycoon:_Idle_Clicker-090909?style=for-the-badge&logo=webgl&logoColor=529e3f)](https://yandex.ru/games/developer/119077#app=452401)
